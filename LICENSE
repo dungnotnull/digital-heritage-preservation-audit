@@ -1,0 +1,65 @@
+# LICENSE — Digital Cultural Heritage Preservation Assessment
+
+**License to be determined for open-source release**
+
+## Recommended Options
+
+For this project, we recommend one of the following permissive licenses:
+
+### MIT License (Recommended)
+- Allows broad reuse and modification
+- Requires attribution and license inclusion
+- Compatible with most other licenses
+- Suitable for open-source projects and commercial use
+
+### Apache 2.0 License (Alternative)
+- Similar permissiveness to MIT
+- Includes patent protections
+- Requires state changes documentation
+- Suitable for projects with patent concerns
+
+## Decision Criteria
+
+When selecting the final license, consider:
+
+1. **Community engagement goals**: MIT encourages broad participation
+2. **Patent concerns**: Apache 2.0 provides explicit patent rights
+3. **Attribution requirements**: Both require attribution
+4. **Commercial use**: Both permit commercial use
+5. **Compatibility**: Both are widely compatible
+
+## License Selection Process
+
+Before final release:
+
+1. Review project goals and community engagement strategy
+2. Consult with stakeholders on license preferences
+3. Consider compatibility with related projects and tools
+4. Assess any institutional or organizational requirements
+5. Choose between MIT or Apache 2.0 based on above criteria
+
+## Interim Status
+
+Until final license selection:
+
+- This project is for development and evaluation purposes
+- Contributors retain copyright to their contributions
+- No commercial deployment without license finalization
+- Attribution is appreciated but not legally required
+
+## License Attribution
+
+When final license is selected:
+
+- Add full license text to LICENSE file
+- Update README.md with license badge and details
+- Include license header in source files where appropriate
+- Document license implications for contributors and users
+
+---
+
+**Note**: This placeholder serves until final license selection. For open-source release, we recommend MIT License for maximum community engagement and compatibility.
+
+**License decision needed before**: Public open-source release
+
+**Last updated**: 2026-06-23
